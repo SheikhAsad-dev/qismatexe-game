@@ -25,3 +25,7 @@ You play as **Dr. Klein Morretti**, a neurosurgeon who can edit and erase trauma
 ```bash
 gcc Qismatexe.c -o qismatexe
 ./qismatexe
+
+## Author
+- Sheikh Asad
+- CT-25128
